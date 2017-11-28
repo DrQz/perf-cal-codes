@@ -1,6 +1,6 @@
-# Performance calendar 2017
-# 3 parameter USL model for  tomcat example
-# Created by NJG on Mon Nov 27 18:35:53 2017
+# Performance Calendar 2017
+# USL3 model for Tomcat example
+# Created by NJG on Mon Nov 27, 2017
 
 # Get the performance data from a file
 df.tomcat <- 
