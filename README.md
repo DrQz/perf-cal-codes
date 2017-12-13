@@ -1,7 +1,10 @@
 # perf-cal-codes
-Performance Calendar 2017
 
-R scripts and data for the discussed USL models.
+R scripts and data for the 
+[USL models](http://www.perfdynamics.com/Manifesto/USLscalability.html) presented in 
+[Visualizing Scalability](https://calendar.perfplanet.com/2017/visualizing-scalability/).    
+Published by the [Performance Calendar](https://calendar.perfplanet.com/2017/) on December 12th, 2017.
+
 
 ## Other resources
 
