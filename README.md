@@ -1,7 +1,7 @@
-# perf-cal-codes
+# Performance Calendar Codes
 
 R scripts and data used to construct the 
-[USL scalability models](http://www.perfdynamics.com/Manifesto/USLscalability.html) discussed in the blog post 
+[USL scalability models](http://www.perfdynamics.com/Manifesto/USLscalability.html) presented in the blog post 
 [Visualizing Scalability](https://calendar.perfplanet.com/2017/visualizing-scalability/) published by 
 [Performance Calendar](https://calendar.perfplanet.com/2017/) on December 12th, 2017.
 
