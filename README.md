@@ -3,7 +3,7 @@
 R scripts and data used to construct the 
 [USL scalability models](http://www.perfdynamics.com/Manifesto/USLscalability.html) presented in the blog post 
 [Visualizing Scalability](https://calendar.perfplanet.com/2017/visualizing-scalability/) published by 
-[Performance Calendar](https://calendar.perfplanet.com/2017/) on December 12th, 2017.
+[Performance Calendar](https://calendar.perfplanet.com/2017/) (_"The speed geek's favorite time of the year"_) on December 12th, 2017
 
 
 ## Other resources
